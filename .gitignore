@@ -1,0 +1,20 @@
+# Generated builds and installed applications
+.build/
+.swiftpm/
+dist/
+*.app/
+*.zip
+.DS_Store
+
+# Machine-specific operations, captures, and credentials
+OPERATIONS.md
+work/
+outputs/
+*.log
+.env
+.env.*
+*.p12
+*.mobileprovision
+
+# Local code indexes
+.codegraph/
